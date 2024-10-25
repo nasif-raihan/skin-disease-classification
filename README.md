@@ -17,7 +17,7 @@ The project is designed to classify skin disease images by deploying a deep lear
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/skin-disease-classification
+   git clone https://github.com/nasif-raihan/skin-disease-classification.git
    cd skin-disease-classification
    ```
 
